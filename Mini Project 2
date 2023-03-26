@@ -5,7 +5,7 @@
    
 </head>
  <body>
-    <h1 align="center">Created By:- Raju Kumar </h1>
+    
     <font face="arial">
     <center><table border="0"width="1000px" cellspacing="0">
         <tr bgcolor="#ab183d">
@@ -123,7 +123,9 @@
     <br>
     <br>
     <br>
-    <table style="font-size: 100;" align="left" cellspacing="0" border="0" width="350" height="800">
+    <table width="1000" height="800">
+        <th>
+    <table style="font-size: 100;" align="left" cellspacing="0" border="0" width="350" height="1000">
         <tr>
             <th bgcolor="#ab183d" height="30">
                 <font color="white" style="font-size: 25px;">  Result </font>
@@ -158,7 +160,9 @@
        
 
 </table> 
-<table style="font-size: 100;" align="right" cellspacing="0" border="0" width="350" height="800">
+        </th>
+        <th>
+<table style="font-size: 100;" align="right" cellspacing="0" border="0" width="350" height="1000">
     <tr>
         <th bgcolor="#ab183d" height="30">
             <font color="white" style="font-size: 25px;">  Latest Jobs </font>
@@ -193,7 +197,9 @@
         <h3> <font color="red">  View More </font></h3></a></th></tr>
    
 </table> 
-<table style="font-size: 100;" cellspacing="0" border="0" width="350" height="800">
+        </th>
+        <th>
+<table style="font-size: 100;" cellspacing="0" border="0" width="350" height="1000">
     <tr>
         <th bgcolor="#ab183d" height="30">
             <font color="white" style="font-size: 25px;"> Admitcard </font>
@@ -229,6 +235,8 @@
      
 
 </table> 
+        </th>
+    </table>
 <br>
 <br>
 <table style="font-size: 100;" align="center" cellspacing="0" border="0" width="1000" height="300">
@@ -236,6 +244,7 @@
         <th bgcolor="#ab183d" height="30">
             <font color="white" style="font-size: 25px;"><center>Answer Key</center>  </font>
         </th>
+    
         <th bgcolor="#ab183d" height="30">
             <font color="white" style="font-size: 25px;">  <center>Syllabus</center></font>
         </th>
